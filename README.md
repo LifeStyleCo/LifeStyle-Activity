@@ -1,1 +1,3 @@
-# LifeStyle-Activity
+# LifeStyle
+
+0.0.2:09 Профиль делал, и кард вью. 
